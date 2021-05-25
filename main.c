@@ -3,11 +3,6 @@
 #include <stdint.h>
 #include <math.h>
 
-////+++++++++++++++++++++++++++++++++++++| LIBRARIES / HEADERS |+++++++++++++++++++++++++++++++++++++
-#include "device_config.h"
-#include <stdint.h>
-#include <math.h>
-
 //+++++++++++++++++++++++++++++++++++++| DIRECTIVES |+++++++++++++++++++++++++++++++++++++
 #define _XTAL_FREQ 8000000
 #define SWEEP_FREQ 50
